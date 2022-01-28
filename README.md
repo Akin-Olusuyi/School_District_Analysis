@@ -8,7 +8,7 @@ The purpose of the analysis is to generate a summary school district report base
   - School Size
   - Passing percentage 
 
-##Results
+## Results
 Here is the link to the code used for this analysis ![Code](https://github.com/Akin-Olusuyi/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 Below are key points to highlight as a result of analyzing the school district data:
@@ -31,7 +31,7 @@ Here is an image of the district summary dataframe ![District Summary DataFrame]
   - There was no change in the performance of Thomas High School relative to other schools
 
 - **How does replacing the ninth-grade scores affect the following:**
-  - Math and reading scores by grade
+  Math and reading scores by grade
     - There were no changes to both scores for grades 10-12. Only grade 9 scores were affected
 
       
