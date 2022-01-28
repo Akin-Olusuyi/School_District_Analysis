@@ -12,6 +12,7 @@ The purpose of the analysis is to generate a summary school district report base
 Here is the link to the code used for this analysis ![Code](https://github.com/Akin-Olusuyi/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 Below are key points to highlight as a result of analyzing the school district data:
+
 - **How is the District Summary Affected after the 9th grade math and reading scores for Thomas High School were replaced with NaN?**
   - The Average Math Score drops by 0.1%
   - The Average Reading Score remained the same.
@@ -31,8 +32,22 @@ Here is an image of the district summary dataframe ![District Summary DataFrame]
   - There was no change in the performance of Thomas High School relative to other schools
 
 - **How does replacing the ninth-grade scores affect the following:**
-  Math and reading scores by grade
-    - There were no changes to both scores for grades 10-12. Only grade 9 scores were affected
+  - Math and reading scores by grade
+      - There were no changes to both scores for grades 10-12. Only grade 9 scores were affected
+      
+  - Scores by school spending
+      - No changes
+  
+  - Scores by school size
+      - No changes
+
+  - Scores by school type
+      - No changes
+
+
+## Summary
+
+In summary, after replacing 9th grades for THS with Nan, there were some changes as it can be seen in the District Summary and School Summary dataframes. However, this were minor changes around scores, ranging from 0.1% to a maximum of 1.0%. I have detailed out those changes in the result section above. 
 
       
  
